@@ -4,12 +4,10 @@
 **Avadhutch50** 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Servlet and JSP
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 🌱 I’m currently learning Servlet and JSP   <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Data Structure And Alogrithms
 - 💬 Ask me about Anything
-- 📫 How to reach me: avadhutch50@gmail.com
-<!-- - 😄 Pronouns: ... -->
+- 📫 How to reach me: avadhutch50@gmail.com   <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Programming is all about Sequence,Selection,Iteration!
 <br />
 
