@@ -3,8 +3,8 @@
 ## I'm a Computer Engineering Student
 **Avadhutch50** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Servlet and JSP   <!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🔭 I’m currently working on-->
+- 🌱 I’m currently learning Spring Boot & Node JS   <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Data Structure And Alogrithms
 - 💬 Ask me about Anything
 - 📫 How to reach me: avadhutch50@gmail.com   <!-- - 😄 Pronouns: ... -->
