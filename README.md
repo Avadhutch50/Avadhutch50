@@ -6,7 +6,7 @@
 <!-- - 🔭 I’m currently working on-->
 - 🌱 I’m currently learning Spring Boot & Node JS   <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Data Structure And Alogrithms
-- ❤️ I love what i do.
+- ❤️ I love what i do, and i love Java :)
 - 📫 How to reach me: avadhutch50@gmail.com   <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Programming is all about Sequence,Selection,Iteration!
 
