@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 ## I'm a Computer Engineering Student
-**Avadhutch50** 
+
+**Avadhutch50**
+
+![](https://komarev.com/ghpvc/?username=Avadhutch50&label=GitHub%20Profile%20Views)
 
 <!-- - 🔭 I’m currently working on-->
 - 🌱 I’m currently learning Spring Boot & Node JS   <!-- - 👯 I’m looking to collaborate on ... -->
