@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Avadhoot Chavan
 
-## I'm a Computer Engineering Student
+## I'm a Computer Engineering Student & Fullstack Java Developer
 
 **Avadhutch50**
 
@@ -8,7 +8,7 @@
 <!-- - 🔭 I’m currently working on-->
 - 🌱 I’m currently learning Spring Boot & Angular   <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Data Structure And Alogrithms
-- ❤️ I love what i do, and i love Java :)
+- ❤️ I love what i do, and I love Java :)
 - 📫 How to reach me: avadhutch50@gmail.com   <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Programming is all about Sequence,Selection,Iteration!
 
