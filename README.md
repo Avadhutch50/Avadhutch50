@@ -77,12 +77,12 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Firebase" title="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
 
 <img align="left" alt="Wordpress" title="Wordpress" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/>
-<br>
-<p>
-  <img align="left" alt="Most Used Languages" title="Most Used Languages" width="400px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avadhutch50&layout=compact&hide=html"/>
-</p>
+<br><br>
 <p>
   <img align="left" alt="GitHub Stats" title="GitHub Stats" width="400px"
   src="https://github-readme-stats.vercel.app/api?username=Avadhutch50&show_icons=true"/>
+</p>
+<p>
+  <img align="left" alt="Most Used Languages" title="Most Used Languages" width="400px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avadhutch50&layout=compact&hide=html"/>
 </p>
