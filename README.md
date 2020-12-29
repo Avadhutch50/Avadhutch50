@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Data Structure And Alogrithms
 - ❤️ I love what i do, and I love Java :)
 - 📫 How to reach me: avadhutch50@gmail.com   <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Programming is all about Sequence,Selection,Iteration!
+- ⚡ Fun fact: Programming is all about Sequence, Selection, Iteration!
 
 ### Languages & Technologies :
 <!-- <img align="left" alt="" width="26px" src=""/> -->
@@ -34,7 +34,7 @@
 
 <img align="left" alt="JavaScript" title="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="JavaScript" title="Bootstrap" width="35px"
+<img align="left" alt="Bootstrap" title="Bootstrap" width="35px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
 
 <img align="left" alt="Node JS" title="Node JS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -45,8 +45,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Angular" title="Angular" width="35px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
 
-<img align="left" alt="React" title="React" width="35px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<!--<img align="left" alt="React" title="React" width="35px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>-->
 
 <br>
 
