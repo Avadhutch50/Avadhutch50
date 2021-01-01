@@ -77,7 +77,17 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Firebase" title="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
 
 <img align="left" alt="Wordpress" title="Wordpress" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/>
-<br><br>
+
+### Follow me on :
+<p>
+<a href="https://twitter.com/Avadhutch50" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chavan-avadhoot/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/10681054/avadhut-chavan" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/avadhut.chavan.334" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="30" height="30"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerearth.com/@avadhutch50" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" width="30" height="30"></a>
+</p>
 <p>
   <img align="left" alt="GitHub Stats" title="GitHub Stats" width="400px"
   src="https://github-readme-stats.vercel.app/api?username=Avadhutch50&show_icons=true"/>
