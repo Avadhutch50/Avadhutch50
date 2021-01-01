@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Avadhutch50&label=GitHub%20Profile%20Views)
 <!-- - 🔭 I’m currently working on-->
-<!- 🌱 I’m currently learning Spring Boot & Angular   --> <!- 👯 I’m looking to collaborate on ... -->
+<!-- - 🌱 I’m currently learning Spring Boot & Angular - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Data Structure And Alogrithms
 - ❤️ I love what i do, and I love Java :)
 - 📫 How to reach me: avadhutch50@gmail.com   <!-- - 😄 Pronouns: ... -->
