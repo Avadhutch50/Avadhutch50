@@ -18,7 +18,7 @@
 
 <img align="left" alt="C++ Programming" title="C++ Programming" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
 
-<img align="left" alt="Java Programming" title="Java Programming" width="35px" src="https://camo.githubusercontent.com/71e3c077d7be422cc46333de8cbea7db50a3040eafeea4c55ad6553ba58729ef/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6a6176612f6a6176612d6f726967696e616c2d776f72646d61726b2e737667"/>
+<img align="left" alt="Java Programming" title="Java Programming" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
 
 <img align="left" alt="Maven" title="Maven" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"/>
 
