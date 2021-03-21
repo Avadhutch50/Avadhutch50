@@ -12,6 +12,7 @@
 - 📫 How to reach me: avadhutch50@gmail.com   <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Programming is all about Sequence, Selection, Iteration!
 
+
 ### Languages & Technologies :
 <!-- <img align="left" alt="" width="26px" src=""/> -->
 <img align="left" alt="C Programming" title="C Programming" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/>
