@@ -63,7 +63,7 @@ src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png"/>
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" alt="SQL Server" title="SQL Server" width="35px" 
-src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg"/>
+src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg"/>
 
 <img align="left" alt="Git" title="Git" width="35px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
