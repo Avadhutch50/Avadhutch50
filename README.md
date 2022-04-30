@@ -54,7 +54,7 @@ src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589
 
 <br>
 
-### Tools & Softwears :
+### Tools & Softwares :
 <img align="left" alt="Eclipse IDE" title="Eclipse IDE" width="35px"
 src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png"/>
 
@@ -62,10 +62,12 @@ src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png"/>
 
 <img align="left" alt="Arduino" title="Arduino IDE" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/>
 
+<img align="left" alt="Jupyter Notebook" title="Jupyter Notebook IDE" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"/>
+
 <img align="left" alt="MySQL" title="MySQL" width="35px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="SQL Server" title="SQL Server" width="35px" 
+<img align="left" alt="SQL Server" title="MS SQL Server" width="35px" 
 src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg"/>
 
 <img align="left" alt="Git" title="Git" width="35px" 
